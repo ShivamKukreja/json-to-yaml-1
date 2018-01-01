@@ -4,7 +4,7 @@ This is a POC for reading a JSON file, massaging it and convert it into YAML
 
 ## Getting Started & Installing
 
-To convert a file in the input folder
+To convert data.json in the input folder and create data.yaml in output folder:
 
 ```
 npm install
@@ -13,7 +13,7 @@ npm start
 
 ## Running the tests
 
-To run testcases on the code
+To run testcases on the code :
 
 ```
 npm test
